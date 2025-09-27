@@ -37,7 +37,7 @@ It handles user and seller authentication, product and auction management, bid t
 
 ## Deployment
 
-- **Backend**: 
+- **Backend**: https://mern-auction-platform-backend-n55f.onrender.com/
 
 Push all code to GitHub and submit your URLs for assessment.
 
