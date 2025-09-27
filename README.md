@@ -37,7 +37,7 @@ It handles user and seller authentication, product and auction management, bid t
 
 ## Deployment
 
-- **Backend**: https://auction-platform-backend-snkf.onrender.com/
+- **Backend**: 
 
 Push all code to GitHub and submit your URLs for assessment.
 
